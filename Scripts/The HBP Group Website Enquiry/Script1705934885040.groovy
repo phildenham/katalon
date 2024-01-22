@@ -19,13 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://thehbpgroup.co.uk/')
-
-WebUI.click(findTestObject('Object Repository/Page_The HBP Group  Passionate About Busine_6fdd13/buttonmobile-toggle'))
-
-WebUI.click(findTestObject('Object Repository/Page_The HBP Group  Passionate About Busine_6fdd13/span_Contact'))
+WebUI.navigateToUrl('https://thehbpgroup.co.uk/contact/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/input_input_text'), 'Test Company')
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/html_(function(w,d,s,l,i)wlwlwl.push(gtm.st_81e09c'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/input_input_text_1'), 'Test Company')
 
@@ -35,5 +33,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry
 
 WebUI.setText(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/textarea_message'), 'Test Company')
 
-WebUI.click(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/span_Contact Us'))
+WebUI.click(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/button_Contact Us'))
 

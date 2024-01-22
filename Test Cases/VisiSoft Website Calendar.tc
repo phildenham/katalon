@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>IT Website</name>
+   <name>VisiSoft Website Calendar</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>fad72d32-7b43-419d-ab6a-824c95f0a759</testCaseGuid>
+   <testCaseGuid>eae4b9af-158a-4e67-a37c-3276a2a28937</testCaseGuid>
 </TestCaseEntity>

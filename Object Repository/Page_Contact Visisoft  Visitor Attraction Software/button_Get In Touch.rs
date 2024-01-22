@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get In Touch</name>
+   <tag></tag>
+   <elementGuidId>59b43561-6c3f-4811-926a-9d5b76f006d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ff-btn.ff-btn-submit.ff-btn-md.ff_btn_style</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ea09ee4a-b14b-4a2e-9110-ed10064d8d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>27bce0e7-3cd7-4706-96aa-04908f27800e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-btn ff-btn-submit ff-btn-md ff_btn_style</value>
+      <webElementGuid>5450aa83-2577-46b2-a28d-158c9cbf49fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get In Touch</value>
+      <webElementGuid>c6b7a620-7bde-4406-810d-c3442cfee771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fluentform_9&quot;)/fieldset[1]/div[@class=&quot;ff-el-group ff-text-left ff_submit_btn_wrapper&quot;]/button[@class=&quot;ff-btn ff-btn-submit ff-btn-md ff_btn_style&quot;]</value>
+      <webElementGuid>9985f41c-e01e-41d0-b951-243d0ae60320</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>a9a3a83f-c0d4-44af-81e9-48fa3c10b7d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='fluentform_9']/fieldset/div[6]/button</value>
+      <webElementGuid>3f353604-c9e0-4a3b-9b9c-00a02e35cb9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>2e75ab23-b80b-4a0b-9220-f6fd5fe29c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Get In Touch' or . = 'Get In Touch')]</value>
+      <webElementGuid>c1e40b15-8c31-48fa-90e0-ce847f5a1969</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

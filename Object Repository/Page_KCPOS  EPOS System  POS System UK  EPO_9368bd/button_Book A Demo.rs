@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Book A Demo</name>
+   <tag></tag>
+   <elementGuidId>15ef2d3d-73f7-4210-8d9a-710e212bafad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ff-btn.ff-btn-submit.ff-btn-md.ff_btn_style.wpf_has_custom_css</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>abc0ad62-28d5-4f4f-8446-c74c2326d1ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>67d97b0d-7c66-4a1e-b081-c35a88fda49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-btn ff-btn-submit ff-btn-md ff_btn_style wpf_has_custom_css</value>
+      <webElementGuid>67aafb93-62ea-4a0c-aa7f-ab9e8714b8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book A Demo</value>
+      <webElementGuid>0af75c75-10c2-46c7-b03d-4f0d1501f7e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fluentform_5&quot;)/fieldset[1]/div[@class=&quot;ff-el-group ff-text-left ff_submit_btn_wrapper&quot;]/button[@class=&quot;ff-btn ff-btn-submit ff-btn-md ff_btn_style wpf_has_custom_css&quot;]</value>
+      <webElementGuid>12b9c211-43c8-4b9b-ac15-cdd5332e6d24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>b2004bba-8a85-4b3c-b715-2d0bd67f5d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='fluentform_5']/fieldset/div[6]/button</value>
+      <webElementGuid>21e071d4-eee6-466a-b7c2-fc71b01875c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>8ca59236-fbaf-4bf9-a7cf-84574b734785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Book A Demo' or . = 'Book A Demo')]</value>
+      <webElementGuid>9232d973-bba8-4349-b18c-2582adeae79d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

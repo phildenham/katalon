@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Contact Us</name>
+   <tag></tag>
+   <elementGuidId>286da67b-2d1f-4041-99b6-53cecd0ed9d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ff-btn.ff-btn-submit.ff-btn-md.ff_btn_style</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41b08b80-9921-452e-b357-4886d80d7848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>88785b8e-98a5-489c-86c2-bfe7e5677ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-btn ff-btn-submit ff-btn-md ff_btn_style</value>
+      <webElementGuid>c64b0db9-f8a1-4449-9c5e-b8e07f40cef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>05d6b21a-13a3-4616-952d-77eac5b5f9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fluentform_1&quot;)/fieldset[1]/div[@class=&quot;ff-el-group ff-text-left ff_submit_btn_wrapper&quot;]/button[@class=&quot;ff-btn ff-btn-submit ff-btn-md ff_btn_style&quot;]</value>
+      <webElementGuid>364b8b93-342d-484c-9fc3-f36d7c7c3b9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>33069981-68d7-4b61-bed3-fe2b5760069d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='fluentform_1']/fieldset/div[6]/button</value>
+      <webElementGuid>00856f8b-6975-43cb-8f10-33494f8d42b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>157bf1e1-34da-40cc-a37b-e3e0c5f2d36f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>6a14ac45-660e-4a15-b1e4-5f56e869c18c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

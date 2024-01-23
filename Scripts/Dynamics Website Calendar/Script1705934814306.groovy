@@ -21,15 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://thehbpgroup.co.uk/365/')
 
-WebUI.click(findTestObject('Object Repository/Page_1 new message/span_200 PM'))
+WebUI.click(findTestObject('Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/span_930 AM'))
 
-WebUI.setText(findTestObject('Object Repository/Page_1 new message/input_firstname'), 'Test Company')
+WebUI.setText(findTestObject('Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/input_firstname'), 'Test Company')
+
+WebUI.click(findTestObject('Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/div_January 2024SunMonTueWedThuFriSat310102_c97c61'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/input_lastname'), 'Test Company')
 
-WebUI.setText(findTestObject('Object Repository/Page_1 new message/input_email (1)'), 'test@test.com')
+WebUI.setText(findTestObject('Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/input_email'), 'test@test.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_1 new message/input_mobile'), '07967205911')
+WebUI.setText(findTestObject('Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/input_mobile'), '07967205911')
 
 WebUI.click(findTestObject('Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/button_Confirm'))
 

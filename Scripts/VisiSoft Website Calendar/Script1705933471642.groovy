@@ -21,15 +21,18 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://visisoft.co.uk/')
 
-WebUI.click(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/span_100 PM'))
+WebUI.click(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/span_1000 AM'))
 
 WebUI.setText(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/input_firstname'), 'Test Company')
-
-WebUI.click(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/input_firstname'))
 
 WebUI.setText(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/input_lastname'), 'Test Company')
 
 WebUI.setText(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/input_email'), 'test@test.com')
+
+WebUI.setText(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/input_attraction_name'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/input_attraction_name'))
 
 WebUI.setText(findTestObject('Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/input_mobile'), '07967205911')
 

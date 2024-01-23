@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ffaf6a76-b0b5-4655-b5b7-b6f752cbeb08</webElementGuid>
+      <webElementGuid>5e962543-f836-4a9e-bf30-6f1924cba660</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bfa0d03d-94c6-471f-9d86-3f9c30112a09</webElementGuid>
+      <webElementGuid>7f5cb1cc-c2cc-498b-8e19-d0faccae5802</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>24db948e-7bc9-4c11-a522-24d1e5e6c6fc</webElementGuid>
+      <webElementGuid>79d67ae3-0ecc-43f1-b790-85bca132c500</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>lastname</value>
-      <webElementGuid>5cf74679-6e48-480f-b8e0-f5ad21810f62</webElementGuid>
+      <webElementGuid>a88e2f24-4b22-43f4-b2ca-5712c9fe7232</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lastname</value>
-      <webElementGuid>181bf1e6-a82f-42ab-8b2f-da18865b5397</webElementGuid>
+      <webElementGuid>b7918224-a4a4-4dc0-ab9f-81f274a93474</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>customer.profile.lastname</value>
-      <webElementGuid>8e492895-1a4b-4f0b-b7b8-664cff557a4f</webElementGuid>
+      <webElementGuid>645cc0b9-979f-4eab-a598-600678f2cd3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>95ce7db3-fd4f-4da4-afe4-660f891a0b2c</webElementGuid>
+      <webElementGuid>d41bdb2f-ac4e-42e2-b7fd-124e5daef104</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required</value>
-      <webElementGuid>281606a1-4544-40eb-b93d-db0a5696023d</webElementGuid>
+      <webElementGuid>52f82165-c288-4fef-9d16-682c6c0e393d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lastname&quot;)</value>
-      <webElementGuid>8fca8bbb-229b-4512-8da0-375519307f63</webElementGuid>
+      <webElementGuid>ffc01a25-dca2-4ae5-8654-47cbb7afe899</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/iframe_shortcode_iframe entered lazyloaded</value>
-      <webElementGuid>9d627066-aaf3-46cc-b30f-5ebb3319c413</webElementGuid>
+      <webElementGuid>f6331418-70dc-4746-b366-6874e7d9edbe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='lastname']</value>
-      <webElementGuid>5faacb69-445b-4d6b-ab7c-251e85a59055</webElementGuid>
+      <webElementGuid>e2e41fd7-752a-4ae7-b313-7bf2c91efcb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='guestDetails']/div[2]/span/input</value>
-      <webElementGuid>40ba4a73-cddf-460c-bb2e-9daca277cb5a</webElementGuid>
+      <webElementGuid>7055454c-2ca4-41dc-a65e-0b5ef3713a15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span/input</value>
-      <webElementGuid>01900153-33d9-488b-9411-ffef37f09ae3</webElementGuid>
+      <webElementGuid>54184a94-bdb4-473f-abe6-64e5dc7ac0ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'lastname' and @id = 'lastname']</value>
-      <webElementGuid>37056382-a1fb-48b9-bbc2-0d275cf0adb6</webElementGuid>
+      <webElementGuid>68d04915-e06f-48e3-b2e5-7074b57d7e31</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

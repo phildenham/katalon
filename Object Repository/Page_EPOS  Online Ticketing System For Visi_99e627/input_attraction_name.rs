@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a91b1593-0dc0-4f7e-ac03-7b7c3ff9a691</webElementGuid>
+      <webElementGuid>bf1606c6-5197-4eb6-ab63-f573641e2918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ab31a6e1-bec4-4761-82fd-a7a320322e1f</webElementGuid>
+      <webElementGuid>e02888da-f9cf-40b2-afb3-a44a5f6b9001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>312b2781-8a86-42af-8a75-b8884243bb4d</webElementGuid>
+      <webElementGuid>aeaac9c0-e73a-41ac-9141-d3951fa1646e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>attraction_name</value>
-      <webElementGuid>3cd34f64-6adf-4c7b-a429-902878eeebf1</webElementGuid>
+      <webElementGuid>c3345683-dee1-4fd1-9642-dd6371ec8aaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>attraction_name</value>
-      <webElementGuid>50b9bb08-90a5-4d5c-8dbc-2ad4db10d01e</webElementGuid>
+      <webElementGuid>1414d959-b61d-48b7-8963-66a954a30db4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>customer.custom_fields[field.id]</value>
-      <webElementGuid>bedf4a64-00e4-488e-9ebb-de217bd0245b</webElementGuid>
+      <webElementGuid>a40ce628-03e2-430f-8564-fb1927e2b806</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>ng-required</name>
       <type>Main</type>
       <value>field.required</value>
-      <webElementGuid>2a035d6d-577b-4ef5-bb82-6f46e2d71641</webElementGuid>
+      <webElementGuid>f3fd295b-b1e4-4ba3-9e2b-6e7b0045be9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required</value>
-      <webElementGuid>67be3d0a-402f-475b-8a6f-518b78d405a1</webElementGuid>
+      <value>ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required</value>
+      <webElementGuid>53968d81-df66-4221-bcc0-5b46983a5a42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>cc33e689-6c2c-4e42-953e-49e12e41deb0</webElementGuid>
+      <webElementGuid>b4ee0d3e-6d30-4357-b075-7d7b3cbdb50d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;attraction_name&quot;)</value>
-      <webElementGuid>a18948c4-e3b1-48ac-a4e8-8992b928cd20</webElementGuid>
+      <webElementGuid>9e57f149-1f98-44ad-82fb-56373c035c2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/iframe_shortcode_iframe entered lazyloaded</value>
-      <webElementGuid>07f135c9-7245-4be0-b66e-b16bbe1496fa</webElementGuid>
+      <webElementGuid>10ba096e-2c3e-4927-9060-865af0ce42c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='attraction_name']</value>
-      <webElementGuid>56dfedb8-df29-4341-b8c0-242c143c0359</webElementGuid>
+      <webElementGuid>c7e123b7-b84c-446e-b2f5-b5dd34cccbc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='guestDetails']/div[5]/span/span/input</value>
-      <webElementGuid>adba40e9-b281-4d8c-adb2-b63baabe6465</webElementGuid>
+      <webElementGuid>40e71ed8-1ade-4d09-ab7a-a6953343283d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/input</value>
-      <webElementGuid>680eadf7-6ef6-4cc6-8c66-96c49ef04c38</webElementGuid>
+      <webElementGuid>bd143d0c-46d5-4edc-8f0e-281d62dfa8fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'attraction_name' and @id = 'attraction_name']</value>
-      <webElementGuid>9b4c36cf-5566-4590-8142-9ce7e8eb5bda</webElementGuid>
+      <webElementGuid>ced733ab-2617-41ca-afe4-734996a6ad98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

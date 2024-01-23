@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6af487c3-0730-4e46-a1d9-255fd29f502a</webElementGuid>
+      <webElementGuid>e2aca34d-551f-45a9-abdc-c50b045c9167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2b8014f9-0946-4d4b-aa62-b8d84c4df37b</webElementGuid>
+      <webElementGuid>4bf2b63a-a418-4d90-ad7b-6517876ab914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>19e2bb5f-df46-47dc-a723-5a80d86bf409</webElementGuid>
+      <webElementGuid>02f4b876-871b-4381-b0b1-b1d1f4670c5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>lastname</value>
-      <webElementGuid>c894173a-4df8-4891-9579-33cb16b0858d</webElementGuid>
+      <webElementGuid>14a80330-6e6a-47a0-922b-cc9e17b6f2e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lastname</value>
-      <webElementGuid>16da6537-1229-42f6-a1d1-e367a49b7f1f</webElementGuid>
+      <webElementGuid>a7382872-d906-46ee-bce9-6ff512ad2951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>customer.profile.lastname</value>
-      <webElementGuid>65b2816f-6521-43fa-9127-21b36d075a36</webElementGuid>
+      <webElementGuid>7fb9372a-6c69-4475-a53c-cc3d70ef3757</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>cf64ba09-bfa5-4ac7-842f-6ea683f3276f</webElementGuid>
+      <webElementGuid>1664e6ae-8dd1-4afe-9094-109b42431308</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-pristine ng-empty ng-invalid ng-invalid-required ng-touched</value>
-      <webElementGuid>5f931983-9846-443a-9280-7f9a127e7dc5</webElementGuid>
+      <value>ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required</value>
+      <webElementGuid>e56ee8b9-1ffd-48f4-b5bf-c8d3b34266ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lastname&quot;)</value>
-      <webElementGuid>a711e6c6-a593-46b9-b685-bffccb6e6631</webElementGuid>
+      <webElementGuid>f431a9b5-a2f3-47a4-b9ce-094491061d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_EPOS  Online Ticketing System For Visi_99e627/iframe_shortcode_iframe entered lazyloaded</value>
-      <webElementGuid>0857609e-27cd-46c3-9672-54b2cdafe6b4</webElementGuid>
+      <webElementGuid>9eda6001-608a-409b-be11-ce89714d631f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='lastname']</value>
-      <webElementGuid>a1b5d7dc-30e2-4b79-8546-c676d3670034</webElementGuid>
+      <webElementGuid>24cc8ff1-ff5e-4df1-b917-03543d0d95c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='guestDetails']/div[2]/span/input</value>
-      <webElementGuid>4668d76f-dfaa-4ee3-9867-ccb8727dcfaa</webElementGuid>
+      <webElementGuid>cc519720-4bd6-40f1-af27-858b9e77d9a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span/input</value>
-      <webElementGuid>37e92622-e35d-475e-a296-fe6b2ceb5ecb</webElementGuid>
+      <webElementGuid>f7ae8544-54df-4859-b6e9-a0f1d02db0fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'lastname' and @id = 'lastname']</value>
-      <webElementGuid>7e78d0d2-9c42-43e7-90ef-dd173f927f7e</webElementGuid>
+      <webElementGuid>02c1f879-5d52-46bd-b0f2-a5308de35355</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

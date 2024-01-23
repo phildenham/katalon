@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>789ab4da-a2a8-48b7-aead-ca749ee3966a</webElementGuid>
+      <webElementGuid>1bcca4e7-d1b7-44fc-8d75-9f01b82f6a83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ap-button btn-medium confirm-bookings-submit-button ng-binding ng-scope</value>
-      <webElementGuid>78b39f8b-76e1-4db3-a32f-601ad39c1d3f</webElementGuid>
+      <webElementGuid>3ee342bf-147c-4d02-912f-0b7bfc3fdacc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>confirmBookings()</value>
-      <webElementGuid>b340c3f0-a920-490d-a85d-422e0c799a88</webElementGuid>
+      <webElementGuid>50c1d225-fb8c-4c14-9773-e7cadc3689cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>guestDetails.$invalid</value>
-      <webElementGuid>4e6a20e6-53b8-46ca-8efa-88cceb00b990</webElementGuid>
+      <webElementGuid>00f61428-305b-4522-8778-cbbcc9e66bd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!paymentRequired</value>
-      <webElementGuid>99630817-4fb7-4550-96cf-bf860bce8bea</webElementGuid>
+      <webElementGuid>2fc1d42e-b35a-4693-b5c2-ab8d2ca5fe34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <value>
 						Confirm
 					</value>
-      <webElementGuid>053a5c3d-f72a-4619-afe3-728595dcd23e</webElementGuid>
+      <webElementGuid>12ca6d0c-6afc-403d-ab99-25b0d69b5b87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;no-js&quot;]/body[1]/span[@class=&quot;ng-scope&quot;]/ap-booking-app[@class=&quot;ng-scope&quot;]/div[@class=&quot;ap-ba-wrapper ng-scope embedded&quot;]/div[@class=&quot;ap-ba-container with-footer&quot;]/div[@class=&quot;ap-ba-content-wrapper&quot;]/div[@class=&quot;ap-ba-main-section&quot;]/div[@class=&quot;ap-ba-content&quot;]/ap-booking-app-step-confirm[@class=&quot;ap-ba-step-container ng-isolate-scope&quot;]/div[@class=&quot;ap-ba-step confirm-bookings-container&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;confirm-bookings-footer footer-non-multibooking-mode&quot;]/div[@class=&quot;confirm-bookings-buttons&quot;]/span[@class=&quot;confirm-bookings-submit-buttons-click-mask&quot;]/button[@class=&quot;ap-button btn-medium confirm-bookings-submit-button ng-binding ng-scope&quot;]</value>
-      <webElementGuid>c4e7b37c-177e-4499-8193-5420a6cdb95a</webElementGuid>
+      <webElementGuid>823e4c4e-688f-4d8c-8f02-0ba903fa3db8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Microsoft Dynamics 365 Business Centra_364156/iframe_shortcode_iframe entered lazyloaded</value>
-      <webElementGuid>b2b1d5a1-115c-4c85-834c-910868dd84c3</webElementGuid>
+      <webElementGuid>197b27e1-2263-47a4-884d-b6488d06da8f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/button</value>
-      <webElementGuid>8490e6ed-018e-425f-9be1-0344da110c5c</webElementGuid>
+      <webElementGuid>4697a764-f084-41d7-a2af-c8650ab71d45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,6 +100,6 @@
 					' or . = '
 						Confirm
 					')]</value>
-      <webElementGuid>b05d5046-86fa-4473-90ed-3566333ef89a</webElementGuid>
+      <webElementGuid>8725675f-409d-49b9-bb18-45e2e341344a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

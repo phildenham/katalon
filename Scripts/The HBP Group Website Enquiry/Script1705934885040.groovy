@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://thehbpgroup.co.uk/contact/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/input_input_text'), 'Test Company')
 
-WebUI.click(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/html_(function(w,d,s,l,i)wlwlwl.push(gtm.st_81e09c'))
+WebUI.click(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/div_Message Our TeamOur expert team are on _4363f4'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/input_input_text_1'), 'Test Company')
 
@@ -33,5 +33,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry
 
 WebUI.setText(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/textarea_message'), 'Test Company')
 
-WebUI.click(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/button_Contact Us'))
+WebUI.click(findTestObject('Object Repository/Page_Contact Us  Make An Enquiry  The HBP Group/span_Contact Us'))
 

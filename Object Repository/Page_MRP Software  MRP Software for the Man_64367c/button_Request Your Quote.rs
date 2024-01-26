@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Request Your Quote</name>
+   <tag></tag>
+   <elementGuidId>5d84e5bc-fc84-4987-ad42-ddfb2f47708c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ff-btn.ff-btn-submit.ff-btn-md.ff_btn_style.wpf_has_custom_css</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf97386c-d606-469d-bc7e-6a7dde393e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e5be0437-5ae1-416f-a309-7ffc1bb7d305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-btn ff-btn-submit ff-btn-md ff_btn_style wpf_has_custom_css</value>
+      <webElementGuid>5647e157-13c7-40cf-a011-c904bc9701b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Request Your Quote</value>
+      <webElementGuid>9bb0e90c-0863-4d33-aa07-bed4eb04e76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fluentform_3&quot;)/fieldset[1]/div[@class=&quot;ff-el-group ff-text-center ff_submit_btn_wrapper&quot;]/button[@class=&quot;ff-btn ff-btn-submit ff-btn-md ff_btn_style wpf_has_custom_css&quot;]</value>
+      <webElementGuid>69779eec-73ef-4d91-8be5-206f835a7ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>f3a7c15a-4f5c-4ab0-96f9-26239cd8443a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='fluentform_3']/fieldset/div[6]/button</value>
+      <webElementGuid>981deb83-b8a8-45c3-8710-fa8b761d736f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>49e98e1a-9e37-4d8c-9414-3630cff4554e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Request Your Quote' or . = 'Request Your Quote')]</value>
+      <webElementGuid>9a975796-260c-4bbc-8900-95b5a710cc08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

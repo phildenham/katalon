@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://thehbpgroup.co.uk/mrp/')
 
 WebUI.setText(findTestObject('Object Repository/Page_MRP Software  MRP Software for the Man_64367c/input_input_text'), 'Test Company')
 
-WebUI.click(findTestObject('Object Repository/Page_MRP Software  MRP Software for the Man_64367c/div_Request A No Obligation Quotation Speak_48eb4a'))
+WebUI.click(findTestObject('Object Repository/Page_MRP Software  MRP Software for the Man_64367c/div_How Do You Run Your Business Spreadshee_f7b0d2'))
 
 WebUI.setText(findTestObject('Object Repository/Page_MRP Software  MRP Software for the Man_64367c/input_input_text_1'), 
     'Test Company')
@@ -37,5 +37,5 @@ WebUI.setText(findTestObject('Object Repository/Page_MRP Software  MRP Software 
 WebUI.setText(findTestObject('Object Repository/Page_MRP Software  MRP Software for the Man_64367c/textarea_description'), 
     'Test Company')
 
-WebUI.click(findTestObject('Object Repository/Page_MRP Software  MRP Software for the Man_64367c/span_Request Your Quote'))
+WebUI.click(findTestObject('Object Repository/Page_MRP Software  MRP Software for the Man_64367c/button_Request Your Quote'))
 
